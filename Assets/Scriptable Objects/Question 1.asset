@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56272d30e166c47489a1febbf0e9c006, type: 3}
+  m_Name: Question 1
+  m_EditorClassIdentifier: 
+  flagImage: {fileID: 21300000, guid: 6ee82d615e9aa5047b02c238884b2204, type: 3}
+  options:
+  - Ireland
+  - Iran
+  - Indonesia
+  - India
+  correctAnswer: 3
